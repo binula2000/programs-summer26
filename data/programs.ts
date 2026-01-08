@@ -865,5 +865,53 @@ export const programs: Program[] = [
     "contact": "info@ncsaua.org",
     "specialty": "Urology",
     "url": "https://ncsaua.org/education/prospect.aspx"
+  },
+  {
+    title: "Scripps Research Translational Institute Student Research Internship",
+    overview: "A 10-week summer program designed for highly motivated students in high school, undergraduate, graduate, or professional schools. Interns work with and learn from a multi-disciplinary team of scientists to develop leadership skills in translational medical research, genomics, and digital medicine.",
+    funding: "Stipend and housing may be available for select students.",
+    contact: "info@scripps.edu",
+    specialty: "Translational Research, Genomics, Digital Medicine",
+    url: "https://www.scripps.edu/science-and-medicine/translational-institute/education-and-training/student-research-internship-program/"
+  },
+  {
+    title: "NIH Summer Internship Program (SIP)",
+    overview: "The largest summer research program at the NIH, offering opportunities to spend a summer working side-by-side with leading scientists in an environment devoted exclusively to biomedical research. Open to high school, college, graduate, and medical students.",
+    funding: "Stipend adjusted yearly based on education level (approx. $2,500-$4,000/month).",
+    contact: "SIP@nih.gov",
+    specialty: "Biomedical Research (General)",
+    url: "https://www.training.nih.gov/research-training/pb/sip/"
+  },
+  {
+    title: "Meharry Cancer Summer Undergraduate Research Program (SURP)",
+    overview: "A 10-week intensive, hands-on research experience for undergraduate and rising second-year medical students. The program focuses on cancer research (clinical, biomedical, and community-based) and increasing awareness of cancer health disparities.",
+    funding: "$6,000 stipend.",
+    contact: "meharrycancersurp@mmc.edu",
+    specialty: "Oncology, Health Disparities",
+    url: "https://home.mmc.edu/school-of-medicine/microbiology-immunology/cancer-surp/"
+  },
+  {
+    title: "Meharry Enhancing Virology Training (ENVIT)",
+    overview: "A 9-10 week virology research training program for graduate, medical, and dental students. The program includes didactic lectures, career development workshops, and mentored research with faculty on viral pathogens.",
+    funding: "$4,000 stipend.",
+    contact: "lstewart@mmc.edu",
+    specialty: "Virology, Infectious Diseases",
+    url: "https://home.mmc.edu/school-of-graduate-studies-research/envit/"
+  },
+  {
+    title: "Fred Hutch Infectious Disease Sciences Summer Scholars Internship",
+    overview: "An 8-week program for currently enrolled undergraduate students and first-year medical students. Participants conduct research on infectious diseases, particularly in immunocompromised hosts, under the guidance of faculty mentors.",
+    funding: "Paid stipend provided.",
+    contact: "IDAdmin@fredhutch.org",
+    specialty: "Infectious Diseases, Immunology",
+    url: "https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/infectious-disease-sciences/training/ids-summer-internship.html"
+  },
+  {
+    title: "NIAMS Summer Student Program",
+    overview: "An 8-week immersive experience in the NIAMS Intramural Research Program labs. Includes a tailored curriculum and laboratory work, concluding in a poster day presentation. Accepts undergrad, graduate, and medical students.",
+    funding: "Paid summer research experience.",
+    contact: "Janelle.hauserman@nih.gov",
+    specialty: "Rheumatology, Dermatology, Orthopedics",
+    url: "https://www.niams.nih.gov/labs/education-training/student-research-training/summer-student-program"
   }
 ]
